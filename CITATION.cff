@@ -3,6 +3,7 @@ message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Patterns in Place: Metro & Micro Panel"
 version: v2026.1
+doi: 10.5281/zenodo.23020706
 abstract: "A county-first public panel of current US metropolitan and micropolitan statistical areas."
 authors:
   - family-names: Berle

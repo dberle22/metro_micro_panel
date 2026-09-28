@@ -53,5 +53,7 @@ Release artifacts and documentation are licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); code is MIT licensed. Cite:
 
 > Berle, Dan. *Patterns in Place: Metro & Micro Panel*, v2026.1. Patterns in Place.
+> https://doi.org/10.5281/zenodo.23020706
 
-The final release entry will add its version DOI and concept DOI.
+The version DOI above is reserved for the Zenodo draft. The final release entry will add the
+concept DOI after publication.

@@ -2,7 +2,9 @@
 
 ## v2026.1
 
-**Status:** pre-publication release candidate.
+**Status:** Zenodo draft ready for publication.
+
+**Reserved version DOI:** [10.5281/zenodo.23020706](https://doi.org/10.5281/zenodo.23020706)
 
 This first version contains:
 
@@ -13,5 +15,5 @@ This first version contains:
 
 The eventual immutable release directory will contain three ZSTD Parquet files, one bundled
 DuckDB file, `manifest.json`, and a generated `coverage_report.md`. The manifest records
-artifact hashes and release-specific provenance. The final publication entry will add the
-canonical data URL, version DOI, concept DOI, and publication date after they exist.
+artifact hashes and release-specific provenance. After publication, record the Zenodo
+landing-page URL, concept DOI, and publication date here.
