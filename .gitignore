@@ -1,0 +1,9 @@
+# Versioned release artifacts are archived on Zenodo rather than committed to Git.
+release-artifacts/
+output/
+*.duckdb
+*.parquet
+
+# Python-generated files.
+__pycache__/
+*.py[cod]
