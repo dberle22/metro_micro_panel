@@ -6,10 +6,13 @@ economics and affordability measures for 2012–2024.
 
 ## Release status
 
-The repository is the public documentation and code home for the first release. `v2026.1` will
-be published as an immutable Zenodo record containing ZSTD Parquet files, a bundled DuckDB
-database, `manifest.json`, and `coverage_report.md`. The Zenodo record URL and DOI will be added
-here when the release is published.
+The repository is the public documentation and code home for the first release. `v2026.1` is an
+immutable Zenodo dataset record with ZSTD Parquet files, a bundled DuckDB database,
+`manifest.json`, and `coverage_report.md`.
+
+[Download v2026.1 from Zenodo](https://zenodo.org/records/23020706) ·
+[Version DOI](https://doi.org/10.5281/zenodo.23020706) ·
+[Concept DOI](https://doi.org/10.5281/zenodo.23020705)
 
 ## Tables
 
@@ -55,5 +58,5 @@ Release artifacts and documentation are licensed under
 > Berle, Dan. *Patterns in Place: Metro & Micro Panel*, v2026.1. Patterns in Place.
 > https://doi.org/10.5281/zenodo.23020706
 
-The version DOI above is reserved for the Zenodo draft. The final release entry will add the
-concept DOI after publication.
+For the dataset as a whole across versions, cite the concept DOI
+https://doi.org/10.5281/zenodo.23020705.
